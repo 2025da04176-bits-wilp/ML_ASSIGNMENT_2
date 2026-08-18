@@ -70,11 +70,3 @@ ML_ASSIGNMENT_2/
 │   ├── Random_Forest.pkl
 │   └── All_Implemented_Models_With_Model_Save.ipynb
 ```
-
-## Streamlit Features
-
-- Upload `test_data.csv`
-- Select any trained model
-- Display Accuracy, AUC, Precision, Recall, F1 Score, and MCC
-- Show Confusion Matrix
-- Display Classification Report
